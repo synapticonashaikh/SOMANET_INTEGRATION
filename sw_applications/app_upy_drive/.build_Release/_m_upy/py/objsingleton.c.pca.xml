@@ -1,0 +1,11 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objsingleton.c">
+  <fCall global="true" name="mp_printf.nstackwords"/>
+  <fCall global="true" name="mp_printf.maxcores"/>
+  <fCall global="true" name="mp_printf.maxtimers"/>
+  <fCall global="true" name="mp_printf.maxchanends"/>
+  <fCall global="true" name="mp_type_singleton"/>
+  <fCall global="true" name="mp_type_type"/>
+  <fCall global="true" name="mp_generic_unary_op"/>
+  <fCall global="true" name="mp_const_ellipsis_obj"/>
+  <fCall global="true" name="mp_printf"/>
+</preCompilationAnalysis>

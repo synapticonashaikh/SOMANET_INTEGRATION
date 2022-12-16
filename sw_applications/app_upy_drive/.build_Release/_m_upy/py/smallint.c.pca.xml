@@ -1,0 +1,17 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/smallint.c">
+  <fCall global="true" name="mp_small_int_mul_overflow"/>
+  <fCall global="true" name="mp_small_int_mul_overflow.nstackwords"/>
+  <fCall global="true" name="mp_small_int_mul_overflow.maxcores"/>
+  <fCall global="true" name="mp_small_int_mul_overflow.maxtimers"/>
+  <fCall global="true" name="mp_small_int_mul_overflow.maxchanends"/>
+  <fCall global="true" name="mp_small_int_modulo"/>
+  <fCall global="true" name="mp_small_int_modulo.nstackwords"/>
+  <fCall global="true" name="mp_small_int_modulo.maxcores"/>
+  <fCall global="true" name="mp_small_int_modulo.maxtimers"/>
+  <fCall global="true" name="mp_small_int_modulo.maxchanends"/>
+  <fCall global="true" name="mp_small_int_floor_divide"/>
+  <fCall global="true" name="mp_small_int_floor_divide.nstackwords"/>
+  <fCall global="true" name="mp_small_int_floor_divide.maxcores"/>
+  <fCall global="true" name="mp_small_int_floor_divide.maxtimers"/>
+  <fCall global="true" name="mp_small_int_floor_divide.maxchanends"/>
+</preCompilationAnalysis>

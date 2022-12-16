@@ -1,0 +1,10 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objnone.c">
+  <fCall global="true" name="mp_print_str.nstackwords"/>
+  <fCall global="true" name="mp_print_str.maxcores"/>
+  <fCall global="true" name="mp_print_str.maxtimers"/>
+  <fCall global="true" name="mp_print_str.maxchanends"/>
+  <fCall global="true" name="mp_type_NoneType"/>
+  <fCall global="true" name="mp_type_type"/>
+  <fCall global="true" name="mp_generic_unary_op"/>
+  <fCall global="true" name="mp_print_str"/>
+</preCompilationAnalysis>

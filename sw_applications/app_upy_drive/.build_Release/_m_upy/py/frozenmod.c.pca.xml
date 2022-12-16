@@ -1,0 +1,19 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/frozenmod.c">
+  <fCall global="true" name="mp_find_frozen_module"/>
+  <fCall global="true" name="mp_find_frozen_module.nstackwords"/>
+  <fCall global="true" name="strlen.nstackwords"/>
+  <fCall global="true" name="memcmp.nstackwords"/>
+  <fCall global="true" name="mp_find_frozen_module.maxcores"/>
+  <fCall global="true" name="memcmp.maxcores"/>
+  <fCall global="true" name="strlen.maxcores"/>
+  <fCall global="true" name="mp_find_frozen_module.maxtimers"/>
+  <fCall global="true" name="memcmp.maxtimers"/>
+  <fCall global="true" name="strlen.maxtimers"/>
+  <fCall global="true" name="mp_find_frozen_module.maxchanends"/>
+  <fCall global="true" name="memcmp.maxchanends"/>
+  <fCall global="true" name="strlen.maxchanends"/>
+  <fCall global="true" name="strlen"/>
+  <fCall global="true" name="memcmp"/>
+  <fCall global="true" name="mp_frozen_names"/>
+  <fCall global="true" name="mp_frozen_mpy_content"/>
+</preCompilationAnalysis>

@@ -1,0 +1,17 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/ringbuf.c">
+  <fCall global="true" name="ringbuf_get16"/>
+  <fCall global="true" name="ringbuf_get16.nstackwords"/>
+  <fCall global="true" name="ringbuf_peek16.nstackwords"/>
+  <fCall global="true" name="ringbuf_get16.maxcores"/>
+  <fCall global="true" name="ringbuf_peek16.maxcores"/>
+  <fCall global="true" name="ringbuf_get16.maxtimers"/>
+  <fCall global="true" name="ringbuf_peek16.maxtimers"/>
+  <fCall global="true" name="ringbuf_get16.maxchanends"/>
+  <fCall global="true" name="ringbuf_peek16.maxchanends"/>
+  <fCall global="true" name="ringbuf_peek16"/>
+  <fCall global="true" name="ringbuf_put16"/>
+  <fCall global="true" name="ringbuf_put16.nstackwords"/>
+  <fCall global="true" name="ringbuf_put16.maxcores"/>
+  <fCall global="true" name="ringbuf_put16.maxtimers"/>
+  <fCall global="true" name="ringbuf_put16.maxchanends"/>
+</preCompilationAnalysis>

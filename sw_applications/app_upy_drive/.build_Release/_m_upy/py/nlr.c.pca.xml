@@ -1,0 +1,13 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/nlr.c">
+  <fCall global="true" name="nlr_push_tail"/>
+  <fCall global="true" name="nlr_push_tail.nstackwords"/>
+  <fCall global="true" name="nlr_push_tail.maxcores"/>
+  <fCall global="true" name="nlr_push_tail.maxtimers"/>
+  <fCall global="true" name="nlr_push_tail.maxchanends"/>
+  <fCall global="true" name="nlr_pop"/>
+  <fCall global="true" name="nlr_pop.nstackwords"/>
+  <fCall global="true" name="nlr_pop.maxcores"/>
+  <fCall global="true" name="nlr_pop.maxtimers"/>
+  <fCall global="true" name="nlr_pop.maxchanends"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

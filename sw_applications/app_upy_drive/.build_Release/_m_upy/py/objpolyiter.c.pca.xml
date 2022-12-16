@@ -1,0 +1,4 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objpolyiter.c">
+  <fCall global="true" name="mp_type_polymorph_iter"/>
+  <fCall global="true" name="mp_type_type"/>
+</preCompilationAnalysis>

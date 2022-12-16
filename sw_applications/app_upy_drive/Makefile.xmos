@@ -1,0 +1,43 @@
+
+# The APP_NAME variable determines the name of the final .xe file. It should
+# not include the .xe postfix. If left blank the name will default to
+# the project name
+APP_NAME ?= app_built_with_somanet
+
+XCC_MAPPER = -Xmapper --map -Xmapper mapfile.map
+
+# FIXME Check if the module build still has some usage.
+#
+# If this flag is not True all somanet ip libraries will be compiled (excepting the ones that are used as a module)
+SKIP_SOMANET_IP_LIBRARIES = True
+
+USED_MODULES = module_upy
+
+BSP_FILES  = -DDRIVE_BOARD_REQUIRED_BSP="\"$(DRIVE_BOARD)\""
+BSP_FILES += -DCORE_BOARD_REQUIRED_BSP="\"$(CORE_BOARD)\""
+BSP_FILES += -DCOM_BOARD_REQUIRED_BSP="\"$(COM_BOARD)\""
+BSP_FILES += -DSAFETY_BOARD_REQUIRED_BSP="\"$(SAFETY_BOARD)\""
+
+# Specific warnings can be turned into errors with -Werror=name-of-warning
+# Further warnings can be disabled with -Wno-name-of-warning
+WARNING_FLAGS = -Wno-all -Wno-extra -Wno-padded -Wno-char-subscripts -Wno-missing-braces \
+                -Wno-xcore-fptrgroup -Werror=return-type -Werror=implicit-int
+
+# The flags passed to xcc when building the application
+# You can also set the following to override flags for a particular language:
+# XCC_XC_FLAGS, XCC_C_FLAGS, XCC_ASM_FLAGS, XCC_CPP_FLAGS
+# If the variable XCC_MAP_FLAGS is set it overrides the flags passed to
+# xcc for the final link (mapping) stage.
+#XCC_FLAGS_Debug = -g -O3 -DCOM_ETHERCAT -DSTARTUP_READ_FLASH_OBJECTS=1 -lflash -report
+#XCC_FLAGS_Debug = -g -O3 -DCOM_ETHERCAT -lflash -report -save-temps
+XCC_FLAGS_Release = -Os -lquadflash -DXCORE200=1 -report #\
+#                    -D$(COMMUNICATION) $(BSP_FILES) $(WARNING_FLAGS) 
+
+XCC_FLAGS_Debug = -g -save-temps $(XCC_FLAGS_Release) $(XCC_MAPPER) $(TIME_MEASURE_FLAGS)
+
+ifeq ($(findstring SafeMotionModule, $(SAFETY_BOARD)), SafeMotionModule)
+XCC_FLAGS_Release += -DDISABLE_PRINT -DDISABLE_LOG
+endif
+
+XMOS_MAKE_PATH ?= ../..
+-include $(XMOS_MAKE_PATH)/xcommon/module_xcommon/build/Makefile.common

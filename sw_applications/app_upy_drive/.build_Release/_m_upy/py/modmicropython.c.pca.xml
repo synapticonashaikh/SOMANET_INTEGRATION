@@ -1,0 +1,24 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/modmicropython.c">
+  <fCall global="true" name="gc_unlock.nstackwords"/>
+  <fCall global="true" name="gc_unlock.maxcores"/>
+  <fCall global="true" name="gc_unlock.maxtimers"/>
+  <fCall global="true" name="gc_unlock.maxchanends"/>
+  <fCall global="true" name="gc_lock.nstackwords"/>
+  <fCall global="true" name="gc_lock.maxcores"/>
+  <fCall global="true" name="gc_lock.maxtimers"/>
+  <fCall global="true" name="gc_lock.maxchanends"/>
+  <fCall global="true" name="mp_obj_get_int.nstackwords"/>
+  <fCall global="true" name="mp_obj_get_int.maxcores"/>
+  <fCall global="true" name="mp_obj_get_int.maxtimers"/>
+  <fCall global="true" name="mp_obj_get_int.maxchanends"/>
+  <fCall global="true" name="mp_module_micropython"/>
+  <fCall global="true" name="mp_type_module"/>
+  <fCall global="true" name="mp_identity_obj"/>
+  <fCall global="true" name="mp_type_dict"/>
+  <fCall global="true" name="mp_type_fun_builtin_var"/>
+  <fCall global="true" name="mp_type_fun_builtin_0"/>
+  <fCall global="true" name="gc_unlock"/>
+  <fCall global="true" name="gc_lock"/>
+  <fCall global="true" name="mp_obj_get_int"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

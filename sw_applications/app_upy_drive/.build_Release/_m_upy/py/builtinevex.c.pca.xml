@@ -1,0 +1,27 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/builtinevex.c">
+  <fCall global="true" name="mp_get_buffer_raise.nstackwords"/>
+  <fCall global="true" name="mp_lexer_new_from_str_len.nstackwords"/>
+  <fCall global="true" name="mp_parse_compile_execute.nstackwords"/>
+  <fCall global="true" name="mp_raise_TypeError.nstackwords"/>
+  <fCall global="true" name="mp_get_buffer_raise.maxcores"/>
+  <fCall global="true" name="mp_lexer_new_from_str_len.maxcores"/>
+  <fCall global="true" name="mp_parse_compile_execute.maxcores"/>
+  <fCall global="true" name="mp_raise_TypeError.maxcores"/>
+  <fCall global="true" name="mp_get_buffer_raise.maxtimers"/>
+  <fCall global="true" name="mp_lexer_new_from_str_len.maxtimers"/>
+  <fCall global="true" name="mp_parse_compile_execute.maxtimers"/>
+  <fCall global="true" name="mp_raise_TypeError.maxtimers"/>
+  <fCall global="true" name="mp_get_buffer_raise.maxchanends"/>
+  <fCall global="true" name="mp_lexer_new_from_str_len.maxchanends"/>
+  <fCall global="true" name="mp_parse_compile_execute.maxchanends"/>
+  <fCall global="true" name="mp_raise_TypeError.maxchanends"/>
+  <fCall global="true" name="mp_builtin_eval_obj"/>
+  <fCall global="true" name="mp_type_fun_builtin_var"/>
+  <fCall global="true" name="mp_builtin_exec_obj"/>
+  <fCall global="true" name="mp_raise_TypeError"/>
+  <fCall global="true" name="mp_get_buffer_raise"/>
+  <fCall global="true" name="mp_lexer_new_from_str_len"/>
+  <fCall global="true" name="mp_parse_compile_execute"/>
+  <fCall global="true" name="mp_type_dict"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

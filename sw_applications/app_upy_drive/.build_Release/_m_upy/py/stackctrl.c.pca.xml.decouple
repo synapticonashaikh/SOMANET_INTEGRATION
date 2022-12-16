@@ -1,0 +1,18 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/stackctrl.c">
+  <fCall global="true" name="mp_stack_ctrl_init"/>
+  <fCall global="true" name="mp_stack_ctrl_init.nstackwords"/>
+  <fCall global="true" name="mp_stack_ctrl_init.maxcores"/>
+  <fCall global="true" name="mp_stack_ctrl_init.maxtimers"/>
+  <fCall global="true" name="mp_stack_ctrl_init.maxchanends"/>
+  <fCall global="true" name="mp_stack_set_top"/>
+  <fCall global="true" name="mp_stack_set_top.nstackwords"/>
+  <fCall global="true" name="mp_stack_set_top.maxcores"/>
+  <fCall global="true" name="mp_stack_set_top.maxtimers"/>
+  <fCall global="true" name="mp_stack_set_top.maxchanends"/>
+  <fCall global="true" name="mp_stack_usage"/>
+  <fCall global="true" name="mp_stack_usage.nstackwords"/>
+  <fCall global="true" name="mp_stack_usage.maxcores"/>
+  <fCall global="true" name="mp_stack_usage.maxtimers"/>
+  <fCall global="true" name="mp_stack_usage.maxchanends"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.xc": "cpp",
+        "mpstate.h": "c",
+        "gchelper.h": "c",
+        "runtime.h": "c",
+        "obj.h": "c",
+        "header.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

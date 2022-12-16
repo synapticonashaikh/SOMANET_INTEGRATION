@@ -1,0 +1,28 @@
+# The placeholder.
+
+# DEPENDENT_MODULES =
+#remove the unwaned warning of unused variables
+FLAG_UNUSED_VAR = -Wno-unused-variable
+#remove unwanted warning of unsed parameter
+FLAG_UNSED_PARA = -Wno-unused-parameter
+#remove the unwaned warning of function pointer
+FLAG_FUNTION_POINTER = -Wno-xcore-fptrgroup
+#remove the unwanted warning of missing field
+FLAG_MISSING_FEILD = -Wno-missing-field-initializers
+#remove the unwanted warning of sign comparison
+FLAG_SIGN_COMPARE = -Wno-sign-compare 
+#set the optimisation level
+FLAG_OPT = -Os
+#geneterate the report of the compilation
+FLAG_REPORT = -report
+
+#flags with respect to XMOS core
+LDFLAGS += $(FLAG_UNUSED_VAR) 
+LDFLAGS += $(FLAG_UNSED_PARA) 
+LDFLAGS += $(FLAG_FUNTION_POINTER) 
+LDFLAGS += $(FLAG_MISSING_FEILD) 
+LDFLAGS += $(FLAG_SIGN_COMPARE) 
+LDFLAGS += $(FLAG_OPT) 
+LDFLAGS += $(FLAG_REPORT) 
+
+MODULE_XCC_FLAGS = $(XCC_FLAGS) -Wall -Wextra -Wmissing-braces $(LDFLAGS) 

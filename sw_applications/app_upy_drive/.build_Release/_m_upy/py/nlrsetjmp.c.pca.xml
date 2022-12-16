@@ -1,0 +1,18 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/nlrsetjmp.c">
+  <fCall global="true" name="nlr_jump"/>
+  <fCall global="true" name="nlr_jump.nstackwords"/>
+  <fCall global="true" name="nlr_jump_fail.nstackwords"/>
+  <fCall global="true" name="longjmp.nstackwords"/>
+  <fCall global="true" name="nlr_jump.maxcores"/>
+  <fCall global="true" name="longjmp.maxcores"/>
+  <fCall global="true" name="nlr_jump_fail.maxcores"/>
+  <fCall global="true" name="nlr_jump.maxtimers"/>
+  <fCall global="true" name="longjmp.maxtimers"/>
+  <fCall global="true" name="nlr_jump_fail.maxtimers"/>
+  <fCall global="true" name="nlr_jump.maxchanends"/>
+  <fCall global="true" name="longjmp.maxchanends"/>
+  <fCall global="true" name="nlr_jump_fail.maxchanends"/>
+  <fCall global="true" name="nlr_jump_fail"/>
+  <fCall global="true" name="longjmp"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

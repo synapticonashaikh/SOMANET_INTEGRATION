@@ -1,0 +1,13 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objcell.c">
+  <fCall global="true" name="mp_obj_new_cell"/>
+  <fCall global="true" name="mp_obj_new_cell.nstackwords"/>
+  <fCall global="true" name="mp_obj_malloc_helper.nstackwords"/>
+  <fCall global="true" name="mp_obj_new_cell.maxcores"/>
+  <fCall global="true" name="mp_obj_malloc_helper.maxcores"/>
+  <fCall global="true" name="mp_obj_new_cell.maxtimers"/>
+  <fCall global="true" name="mp_obj_malloc_helper.maxtimers"/>
+  <fCall global="true" name="mp_obj_new_cell.maxchanends"/>
+  <fCall global="true" name="mp_obj_malloc_helper.maxchanends"/>
+  <fCall global="true" name="mp_type_type"/>
+  <fCall global="true" name="mp_obj_malloc_helper"/>
+</preCompilationAnalysis>

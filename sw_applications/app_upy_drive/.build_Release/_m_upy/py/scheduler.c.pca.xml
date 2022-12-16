@@ -1,0 +1,18 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/scheduler.c">
+  <fCall global="true" name="mp_sched_exception"/>
+  <fCall global="true" name="mp_sched_exception.nstackwords"/>
+  <fCall global="true" name="mp_sched_exception.maxcores"/>
+  <fCall global="true" name="mp_sched_exception.maxtimers"/>
+  <fCall global="true" name="mp_sched_exception.maxchanends"/>
+  <fCall global="true" name="mp_handle_pending"/>
+  <fCall global="true" name="mp_handle_pending.nstackwords"/>
+  <fCall global="true" name="nlr_jump.nstackwords"/>
+  <fCall global="true" name="mp_handle_pending.maxcores"/>
+  <fCall global="true" name="nlr_jump.maxcores"/>
+  <fCall global="true" name="mp_handle_pending.maxtimers"/>
+  <fCall global="true" name="nlr_jump.maxtimers"/>
+  <fCall global="true" name="mp_handle_pending.maxchanends"/>
+  <fCall global="true" name="nlr_jump.maxchanends"/>
+  <fCall global="true" name="nlr_jump"/>
+  <fCall global="true" name="mp_state_ctx"/>
+</preCompilationAnalysis>

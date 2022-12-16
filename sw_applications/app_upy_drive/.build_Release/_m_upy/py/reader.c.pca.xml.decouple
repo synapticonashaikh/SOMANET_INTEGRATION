@@ -1,0 +1,17 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/reader.c">
+  <fCall global="true" name="mp_reader_new_mem"/>
+  <fCall global="true" name="mp_reader_new_mem.nstackwords"/>
+  <fCall global="true" name="m_malloc.nstackwords"/>
+  <fCall global="true" name="mp_reader_new_mem.maxcores"/>
+  <fCall global="true" name="m_malloc.maxcores"/>
+  <fCall global="true" name="mp_reader_new_mem.maxtimers"/>
+  <fCall global="true" name="m_malloc.maxtimers"/>
+  <fCall global="true" name="mp_reader_new_mem.maxchanends"/>
+  <fCall global="true" name="m_malloc.maxchanends"/>
+  <fCall global="true" name="m_free.nstackwords"/>
+  <fCall global="true" name="m_free.maxcores"/>
+  <fCall global="true" name="m_free.maxtimers"/>
+  <fCall global="true" name="m_free.maxchanends"/>
+  <fCall global="true" name="m_malloc"/>
+  <fCall global="true" name="m_free"/>
+</preCompilationAnalysis>

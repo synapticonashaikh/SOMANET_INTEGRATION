@@ -1,0 +1,22 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/stdout_helpers.c">
+  <fCall global="true" name="mp_hal_stdout_tx_strn_cooked"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.nstackwords"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn.nstackwords"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.maxcores"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn.maxcores"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.maxtimers"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn.maxtimers"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.maxchanends"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn.maxchanends"/>
+  <fCall global="true" name="mp_hal_stdout_tx_str"/>
+  <fCall global="true" name="mp_hal_stdout_tx_str.nstackwords"/>
+  <fCall global="true" name="strlen.nstackwords"/>
+  <fCall global="true" name="mp_hal_stdout_tx_str.maxcores"/>
+  <fCall global="true" name="strlen.maxcores"/>
+  <fCall global="true" name="mp_hal_stdout_tx_str.maxtimers"/>
+  <fCall global="true" name="strlen.maxtimers"/>
+  <fCall global="true" name="mp_hal_stdout_tx_str.maxchanends"/>
+  <fCall global="true" name="strlen.maxchanends"/>
+  <fCall global="true" name="mp_hal_stdout_tx_strn"/>
+  <fCall global="true" name="strlen"/>
+</preCompilationAnalysis>

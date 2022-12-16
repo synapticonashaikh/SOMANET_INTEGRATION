@@ -1,0 +1,17 @@
+<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/pairheap.c">
+  <fCall global="true" name="mp_pairheap_meld"/>
+  <fCall global="true" name="mp_pairheap_meld.maxcores"/>
+  <fCall global="true" name="mp_pairheap_meld.maxtimers"/>
+  <fCall global="true" name="mp_pairheap_meld.maxchanends"/>
+  <fCall global="true" name="mp_pairheap_pairing"/>
+  <fCall global="true" name="mp_pairheap_pairing.nstackwords"/>
+  <fCall global="true" name="mp_pairheap_meld.nstackwords"/>
+  <fCall global="true" name="mp_pairheap_pairing.maxcores"/>
+  <fCall global="true" name="mp_pairheap_pairing.maxtimers"/>
+  <fCall global="true" name="mp_pairheap_pairing.maxchanends"/>
+  <fCall global="true" name="mp_pairheap_delete"/>
+  <fCall global="true" name="mp_pairheap_delete.nstackwords"/>
+  <fCall global="true" name="mp_pairheap_delete.maxcores"/>
+  <fCall global="true" name="mp_pairheap_delete.maxtimers"/>
+  <fCall global="true" name="mp_pairheap_delete.maxchanends"/>
+</preCompilationAnalysis>
