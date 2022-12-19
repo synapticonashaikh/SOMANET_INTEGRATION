@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/parsenum.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/parsenum.c">
   <fCall global="true" name="mp_parse_num_integer"/>
   <fCall global="true" name="mp_parse_num_integer.nstackwords"/>
   <fCall global="true" name="mp_raise_ValueError.nstackwords"/>
@@ -36,53 +36,19 @@
   <fCall global="true" name="nlr_jump.maxtimers"/>
   <fCall global="true" name="mp_obj_exception_add_traceback.maxchanends"/>
   <fCall global="true" name="nlr_jump.maxchanends"/>
-  <fCall global="true" name="mp_parse_num_decimal"/>
-  <fCall global="true" name="mp_parse_num_decimal.nstackwords"/>
-  <fCall global="true" name="nanf.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_float.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_complex.nstackwords"/>
-  <fCall global="true" name="__divsf3.nstackwords"/>
-  <fCall global="true" name="powf.nstackwords"/>
-  <fCall global="true" name="__floatsisf.nstackwords"/>
-  <fCall global="true" name="__ltsf2.nstackwords"/>
-  <fCall global="true" name="__gesf2.nstackwords"/>
-  <fCall global="true" name="__unordsf2.nstackwords"/>
-  <fCall global="true" name="__mulsf3.nstackwords"/>
-  <fCall global="true" name="__addsf3.nstackwords"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxcores"/>
-  <fCall global="true" name="mp_obj_new_complex.maxcores"/>
-  <fCall global="true" name="mp_obj_new_float.maxcores"/>
-  <fCall global="true" name="nanf.maxcores"/>
-  <fCall global="true" name="powf.maxcores"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_complex.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_float.maxtimers"/>
-  <fCall global="true" name="nanf.maxtimers"/>
-  <fCall global="true" name="powf.maxtimers"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_complex.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_float.maxchanends"/>
-  <fCall global="true" name="nanf.maxchanends"/>
-  <fCall global="true" name="powf.maxchanends"/>
+  <fCall global="true" name="mp_parse_num_float"/>
+  <fCall global="true" name="mp_parse_num_float.nstackwords"/>
+  <fCall global="true" name="mp_parse_num_float.maxcores"/>
+  <fCall global="true" name="mp_parse_num_float.maxtimers"/>
+  <fCall global="true" name="mp_parse_num_float.maxchanends"/>
   <fCall global="true" name="mp_raise_ValueError"/>
   <fCall global="true" name="unichar_isspace"/>
   <fCall global="true" name="mp_parse_num_base"/>
   <fCall global="true" name="mp_small_int_mul_overflow"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len"/>
   <fCall global="true" name="mp_obj_new_exception_msg"/>
-  <fCall global="true" name="nanf"/>
-  <fCall global="true" name="powf"/>
-  <fCall global="true" name="mp_obj_new_complex"/>
-  <fCall global="true" name="mp_obj_new_float"/>
   <fCall global="true" name="mp_obj_exception_add_traceback"/>
   <fCall global="true" name="nlr_jump"/>
   <fCall global="true" name="mp_type_ValueError"/>
   <fCall global="true" name="mp_type_SyntaxError"/>
-  <fCall global="true" name="__gesf2"/>
-  <fCall global="true" name="__unordsf2"/>
-  <fCall global="true" name="__mulsf3"/>
-  <fCall global="true" name="__addsf3"/>
-  <fCall global="true" name="__ltsf2"/>
-  <fCall global="true" name="__floatsisf"/>
-  <fCall global="true" name="__divsf3"/>
 </preCompilationAnalysis>

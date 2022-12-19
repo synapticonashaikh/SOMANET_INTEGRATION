@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/scope.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/scope.c">
   <fCall global="true" name="scope_new"/>
   <fCall global="true" name="scope_new.nstackwords"/>
   <fCall global="true" name="m_malloc0.nstackwords"/>

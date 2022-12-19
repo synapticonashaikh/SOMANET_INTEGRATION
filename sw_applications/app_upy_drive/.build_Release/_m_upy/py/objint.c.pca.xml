@@ -1,18 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objint.c">
-  <fCall global="true" name="mp_obj_new_int_from_float"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.nstackwords"/>
-  <fCall global="true" name="mp_raise_msg.nstackwords"/>
-  <fCall global="true" name="__fixsfsi.nstackwords"/>
-  <fCall global="true" name="mp_raise_ValueError.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxcores"/>
-  <fCall global="true" name="mp_raise_ValueError.maxcores"/>
-  <fCall global="true" name="mp_raise_msg.maxcores"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxtimers"/>
-  <fCall global="true" name="mp_raise_ValueError.maxtimers"/>
-  <fCall global="true" name="mp_raise_msg.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxchanends"/>
-  <fCall global="true" name="mp_raise_ValueError.maxchanends"/>
-  <fCall global="true" name="mp_raise_msg.maxchanends"/>
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objint.c">
   <fCall global="true" name="mp_obj_int_print"/>
   <fCall global="true" name="mp_obj_int_print.nstackwords"/>
   <fCall global="true" name="mp_obj_int_formatted.nstackwords"/>
@@ -78,9 +64,13 @@
   <fCall global="true" name="mp_binary_op.maxchanends"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len.nstackwords"/>
+  <fCall global="true" name="mp_raise_msg.nstackwords"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len.maxcores"/>
+  <fCall global="true" name="mp_raise_msg.maxcores"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len.maxtimers"/>
+  <fCall global="true" name="mp_raise_msg.maxtimers"/>
   <fCall global="true" name="mp_obj_new_int_from_str_len.maxchanends"/>
+  <fCall global="true" name="mp_raise_msg.maxchanends"/>
   <fCall global="true" name="mp_obj_new_int_from_ll"/>
   <fCall global="true" name="mp_obj_new_int_from_ll.nstackwords"/>
   <fCall global="true" name="mp_obj_new_int_from_ll.maxcores"/>
@@ -113,36 +103,36 @@
   <fCall global="true" name="mp_obj_int_get_checked.maxchanends"/>
   <fCall global="true" name="mp_arg_check_num_sig.nstackwords"/>
   <fCall global="true" name="mp_parse_num_integer.nstackwords"/>
-  <fCall global="true" name="mp_obj_float_get.nstackwords"/>
   <fCall global="true" name="mp_unary_op.nstackwords"/>
   <fCall global="true" name="mp_obj_str_get_data.nstackwords"/>
   <fCall global="true" name="mp_arg_check_num_sig.maxcores"/>
-  <fCall global="true" name="mp_obj_float_get.maxcores"/>
   <fCall global="true" name="mp_obj_str_get_data.maxcores"/>
   <fCall global="true" name="mp_parse_num_integer.maxcores"/>
   <fCall global="true" name="mp_unary_op.maxcores"/>
   <fCall global="true" name="mp_arg_check_num_sig.maxtimers"/>
-  <fCall global="true" name="mp_obj_float_get.maxtimers"/>
   <fCall global="true" name="mp_obj_str_get_data.maxtimers"/>
   <fCall global="true" name="mp_parse_num_integer.maxtimers"/>
   <fCall global="true" name="mp_unary_op.maxtimers"/>
   <fCall global="true" name="mp_arg_check_num_sig.maxchanends"/>
-  <fCall global="true" name="mp_obj_float_get.maxchanends"/>
   <fCall global="true" name="mp_obj_str_get_data.maxchanends"/>
   <fCall global="true" name="mp_parse_num_integer.maxchanends"/>
   <fCall global="true" name="mp_unary_op.maxchanends"/>
+  <fCall global="true" name="mp_raise_ValueError.nstackwords"/>
   <fCall global="true" name="vstr_init_len.nstackwords"/>
   <fCall global="true" name="memset.nstackwords"/>
   <fCall global="true" name="mp_binary_set_int.nstackwords"/>
   <fCall global="true" name="mp_obj_new_bytes_from_vstr.nstackwords"/>
   <fCall global="true" name="mp_binary_set_int.maxcores"/>
   <fCall global="true" name="mp_obj_new_bytes_from_vstr.maxcores"/>
+  <fCall global="true" name="mp_raise_ValueError.maxcores"/>
   <fCall global="true" name="vstr_init_len.maxcores"/>
   <fCall global="true" name="mp_binary_set_int.maxtimers"/>
   <fCall global="true" name="mp_obj_new_bytes_from_vstr.maxtimers"/>
+  <fCall global="true" name="mp_raise_ValueError.maxtimers"/>
   <fCall global="true" name="vstr_init_len.maxtimers"/>
   <fCall global="true" name="mp_binary_set_int.maxchanends"/>
   <fCall global="true" name="mp_obj_new_bytes_from_vstr.maxchanends"/>
+  <fCall global="true" name="mp_raise_ValueError.maxchanends"/>
   <fCall global="true" name="vstr_init_len.maxchanends"/>
   <fCall global="true" name="mp_get_buffer_raise.nstackwords"/>
   <fCall global="true" name="mp_get_buffer_raise.maxcores"/>
@@ -153,29 +143,26 @@
   <fCall global="true" name="mp_type_dict"/>
   <fCall global="true" name="mp_type_classmethod"/>
   <fCall global="true" name="mp_type_fun_builtin_var"/>
-  <fCall global="true" name="mp_raise_msg"/>
-  <fCall global="true" name="mp_raise_ValueError"/>
   <fCall global="true" name="mp_print_str"/>
   <fCall global="true" name="m_free"/>
   <fCall global="true" name="__assert_func"/>
   <fCall global="true" name="strlen"/>
   <fCall global="true" name="m_malloc"/>
   <fCall global="true" name="mp_obj_get_int"/>
+  <fCall global="true" name="mp_raise_msg"/>
   <fCall global="true" name="mp_binary_op"/>
   <fCall global="true" name="mp_obj_str_binary_op"/>
+  <fCall global="true" name="mp_raise_ValueError"/>
   <fCall global="true" name="vstr_init_len"/>
   <fCall global="true" name="mp_binary_set_int"/>
   <fCall global="true" name="mp_obj_new_bytes_from_vstr"/>
   <fCall global="true" name="mp_get_buffer_raise"/>
   <fCall global="true" name="mp_obj_str_get_data"/>
   <fCall global="true" name="mp_parse_num_integer"/>
-  <fCall global="true" name="mp_obj_float_get"/>
   <fCall global="true" name="mp_unary_op"/>
   <fCall global="true" name="mp_arg_check_num_sig"/>
   <fCall global="true" name="mp_type_OverflowError"/>
   <fCall global="true" name="mp_type_tuple"/>
   <fCall global="true" name="mp_type_list"/>
-  <fCall global="true" name="mp_type_float"/>
-  <fCall global="true" name="__fixsfsi"/>
   <fCall global="true" name="memset"/>
 </preCompilationAnalysis>

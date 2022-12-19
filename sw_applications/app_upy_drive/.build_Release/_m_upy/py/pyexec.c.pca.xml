@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/pyexec.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/pyexec.c">
   <fCall global="true" name="pyexec_raw_repl"/>
   <fCall global="true" name="pyexec_raw_repl.nstackwords"/>
   <fCall global="true" name="vstr_init.nstackwords"/>

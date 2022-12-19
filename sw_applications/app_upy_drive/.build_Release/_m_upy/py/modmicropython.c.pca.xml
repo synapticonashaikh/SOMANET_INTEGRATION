@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/modmicropython.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/modmicropython.c">
   <fCall global="true" name="gc_unlock.nstackwords"/>
   <fCall global="true" name="gc_unlock.maxcores"/>
   <fCall global="true" name="gc_unlock.maxtimers"/>

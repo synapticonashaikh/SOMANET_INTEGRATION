@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/lexer.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/lexer.c">
   <fCall global="true" name="mp_lexer_to_next"/>
   <fCall global="true" name="mp_lexer_to_next.nstackwords"/>
   <fCall global="true" name="m_realloc.nstackwords"/>

@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/readline.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/readline.c">
   <fCall global="true" name="readline_init0"/>
   <fCall global="true" name="readline_init0.nstackwords"/>
   <fCall global="true" name="memset.nstackwords"/>

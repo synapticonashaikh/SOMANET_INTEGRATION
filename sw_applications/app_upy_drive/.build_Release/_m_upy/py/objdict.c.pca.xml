@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objdict.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objdict.c">
   <fCall global="true" name="mp_obj_is_dict_or_ordereddict"/>
   <fCall global="true" name="mp_obj_is_dict_or_ordereddict.nstackwords"/>
   <fCall global="true" name="mp_obj_is_dict_or_ordereddict.maxcores"/>

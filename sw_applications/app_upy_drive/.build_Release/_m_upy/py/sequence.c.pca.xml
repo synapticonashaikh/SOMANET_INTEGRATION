@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/sequence.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/sequence.c">
   <fCall global="true" name="mp_seq_multiply"/>
   <fCall global="true" name="mp_seq_multiply.nstackwords"/>
   <fCall global="true" name="memcpy.nstackwords"/>

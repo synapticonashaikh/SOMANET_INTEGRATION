@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/binary.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/binary.c">
   <fCall global="true" name="mp_binary_get_size"/>
   <fCall global="true" name="mp_binary_get_size.nstackwords"/>
   <fCall global="true" name="mp_raise_ValueError.nstackwords"/>
@@ -12,18 +12,13 @@
   <fCall global="true" name="mp_binary_get_val_array.nstackwords"/>
   <fCall global="true" name="mp_obj_new_int_from_uint.nstackwords"/>
   <fCall global="true" name="mp_obj_new_int.nstackwords"/>
-  <fCall global="true" name="__truncdfsf2.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_float.nstackwords"/>
   <fCall global="true" name="mp_binary_get_val_array.maxcores"/>
-  <fCall global="true" name="mp_obj_new_float.maxcores"/>
   <fCall global="true" name="mp_obj_new_int.maxcores"/>
   <fCall global="true" name="mp_obj_new_int_from_uint.maxcores"/>
   <fCall global="true" name="mp_binary_get_val_array.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_float.maxtimers"/>
   <fCall global="true" name="mp_obj_new_int.maxtimers"/>
   <fCall global="true" name="mp_obj_new_int_from_uint.maxtimers"/>
   <fCall global="true" name="mp_binary_get_val_array.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_float.maxchanends"/>
   <fCall global="true" name="mp_obj_new_int.maxchanends"/>
   <fCall global="true" name="mp_obj_new_int_from_uint.maxchanends"/>
   <fCall global="true" name="mp_binary_get_int"/>
@@ -60,19 +55,13 @@
   <fCall global="true" name="mp_binary_set_int.maxchanends"/>
   <fCall global="true" name="mp_binary_set_val"/>
   <fCall global="true" name="mp_binary_set_val.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float.nstackwords"/>
-  <fCall global="true" name="__extendsfdf2.nstackwords"/>
-  <fCall global="true" name="__misaligned_store.nstackwords"/>
   <fCall global="true" name="mp_obj_get_int.nstackwords"/>
   <fCall global="true" name="memset.nstackwords"/>
   <fCall global="true" name="mp_binary_set_val.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float.maxcores"/>
   <fCall global="true" name="mp_obj_get_int.maxcores"/>
   <fCall global="true" name="mp_binary_set_val.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float.maxtimers"/>
   <fCall global="true" name="mp_obj_get_int.maxtimers"/>
   <fCall global="true" name="mp_binary_set_val.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float.maxchanends"/>
   <fCall global="true" name="mp_obj_get_int.maxchanends"/>
   <fCall global="true" name="mp_binary_set_val_array"/>
   <fCall global="true" name="mp_binary_set_val_array.nstackwords"/>
@@ -84,8 +73,6 @@
   <fCall global="true" name="mp_binary_set_val_array.maxchanends"/>
   <fCall global="true" name="mp_binary_set_val_array_from_int.maxchanends"/>
   <fCall global="true" name="mp_binary_set_val_array_from_int"/>
-  <fCall global="true" name="__floatsidf.nstackwords"/>
-  <fCall global="true" name="__floatsisf.nstackwords"/>
   <fCall global="true" name="mp_raise_ValueError"/>
   <fCall global="true" name="mp_obj_new_int"/>
   <fCall global="true" name="mp_obj_new_int_from_uint"/>
@@ -94,13 +81,6 @@
   <fCall global="true" name="mp_obj_new_int_from_ll"/>
   <fCall global="true" name="mp_obj_new_int_from_ull"/>
   <fCall global="true" name="mp_obj_get_int"/>
-  <fCall global="true" name="mp_obj_get_float"/>
-  <fCall global="true" name="mp_obj_new_float"/>
-  <fCall global="true" name="__truncdfsf2"/>
   <fCall global="true" name="memcpy"/>
-  <fCall global="true" name="__extendsfdf2"/>
   <fCall global="true" name="memset"/>
-  <fCall global="true" name="__misaligned_store"/>
-  <fCall global="true" name="__floatsidf"/>
-  <fCall global="true" name="__floatsisf"/>
 </preCompilationAnalysis>

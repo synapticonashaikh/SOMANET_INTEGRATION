@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/runtime.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/runtime.c">
   <fCall global="true" name="mp_init"/>
   <fCall global="true" name="mp_init.nstackwords"/>
   <fCall global="true" name="qstr_init.nstackwords"/>
@@ -392,11 +392,8 @@
   <fCall global="true" name="mp_obj_new_int_from_ll"/>
   <fCall global="true" name="mp_small_int_mul_overflow"/>
   <fCall global="true" name="mp_small_int_floor_divide"/>
-  <fCall global="true" name="mp_obj_new_float"/>
   <fCall global="true" name="mp_small_int_modulo"/>
-  <fCall global="true" name="mp_obj_float_binary_op"/>
   <fCall global="true" name="mp_obj_new_tuple"/>
-  <fCall global="true" name="mp_obj_complex_binary_op"/>
   <fCall global="true" name="mp_obj_equal"/>
   <fCall global="true" name="mp_obj_get_array"/>
   <fCall global="true" name="mp_obj_new_list"/>
@@ -443,8 +440,6 @@
   <fCall global="true" name="mp_type_NameError"/>
   <fCall global="true" name="mp_builtin___build_class___obj"/>
   <fCall global="true" name="mp_type_tuple"/>
-  <fCall global="true" name="mp_type_float"/>
-  <fCall global="true" name="mp_type_complex"/>
   <fCall global="true" name="mp_type_ZeroDivisionError"/>
   <fCall global="true" name="mp_type_list"/>
   <fCall global="true" name="mp_type_staticmethod"/>
@@ -462,8 +457,6 @@
   <fCall global="true" name="mp_type_ValueError"/>
   <fCall global="true" name="mp_type_NotImplementedError"/>
   <fCall global="true" name="mp_type_OSError"/>
-  <fCall global="true" name="__floatsisf"/>
-  <fCall global="true" name="__divsf3"/>
   <fCall global="true" name="__memcpy_4"/>
   <fCall global="true" name="memcpy"/>
 </preCompilationAnalysis>

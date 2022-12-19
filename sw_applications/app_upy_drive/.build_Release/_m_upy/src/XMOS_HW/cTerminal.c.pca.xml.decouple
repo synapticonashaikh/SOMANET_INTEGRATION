@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/src/XMOS_HW/cTerminal.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/src/XMOS_HW/cTerminal.c">
   <fCall global="true" name="mp_hal_stdin_rx_chr"/>
   <fCall global="true" name="mp_hal_stdin_rx_chr.nstackwords"/>
   <fCall global="true" name="read.nstackwords"/>

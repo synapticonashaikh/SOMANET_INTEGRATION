@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/scheduler.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/scheduler.c">
   <fCall global="true" name="mp_sched_exception"/>
   <fCall global="true" name="mp_sched_exception.nstackwords"/>
   <fCall global="true" name="mp_sched_exception.maxcores"/>

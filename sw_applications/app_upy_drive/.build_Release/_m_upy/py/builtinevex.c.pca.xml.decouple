@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/builtinevex.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/builtinevex.c">
   <fCall global="true" name="mp_get_buffer_raise.nstackwords"/>
   <fCall global="true" name="mp_lexer_new_from_str_len.nstackwords"/>
   <fCall global="true" name="mp_parse_compile_execute.nstackwords"/>

@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/emitglue.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/emitglue.c">
   <fCall global="true" name="mp_emit_glue_new_raw_code"/>
   <fCall global="true" name="mp_emit_glue_new_raw_code.nstackwords"/>
   <fCall global="true" name="m_malloc0.nstackwords"/>

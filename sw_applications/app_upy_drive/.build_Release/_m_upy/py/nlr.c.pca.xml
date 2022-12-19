@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/nlr.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/nlr.c">
   <fCall global="true" name="nlr_push_tail"/>
   <fCall global="true" name="nlr_push_tail.nstackwords"/>
   <fCall global="true" name="nlr_push_tail.maxcores"/>

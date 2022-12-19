@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/modbuiltins.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/modbuiltins.c">
   <fCall global="true" name="mp_obj_new_dict.nstackwords"/>
   <fCall global="true" name="mp_call_function_0.nstackwords"/>
   <fCall global="true" name="mp_obj_new_tuple.nstackwords"/>
@@ -119,29 +119,10 @@
   <fCall global="true" name="vstr_init_print.maxtimers"/>
   <fCall global="true" name="mp_obj_new_str_from_vstr.maxchanends"/>
   <fCall global="true" name="vstr_init_print.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float.nstackwords"/>
-  <fCall global="true" name="__floatsisf.nstackwords"/>
-  <fCall global="true" name="powf.nstackwords"/>
-  <fCall global="true" name="__mulsf3.nstackwords"/>
-  <fCall global="true" name="__divsf3.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_float.nstackwords"/>
-  <fCall global="true" name="nearbyintf.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float.maxcores"/>
-  <fCall global="true" name="mp_obj_new_float.maxcores"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxcores"/>
-  <fCall global="true" name="nearbyintf.maxcores"/>
-  <fCall global="true" name="powf.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_float.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxtimers"/>
-  <fCall global="true" name="nearbyintf.maxtimers"/>
-  <fCall global="true" name="powf.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_float.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_int_from_float.maxchanends"/>
-  <fCall global="true" name="nearbyintf.maxchanends"/>
-  <fCall global="true" name="powf.maxchanends"/>
+  <fCall global="true" name="mp_obj_new_int.nstackwords"/>
+  <fCall global="true" name="mp_obj_new_int.maxcores"/>
+  <fCall global="true" name="mp_obj_new_int.maxtimers"/>
+  <fCall global="true" name="mp_obj_new_int.maxchanends"/>
   <fCall global="true" name="mp_obj_list_make_new.nstackwords"/>
   <fCall global="true" name="mp_obj_list_sort.nstackwords"/>
   <fCall global="true" name="mp_obj_list_make_new.maxcores"/>
@@ -205,9 +186,7 @@
   <fCall global="true" name="mp_builtin___import___obj"/>
   <fCall global="true" name="mp_type_bool"/>
   <fCall global="true" name="mp_type_bytes"/>
-  <fCall global="true" name="mp_type_complex"/>
   <fCall global="true" name="mp_type_dict"/>
-  <fCall global="true" name="mp_type_float"/>
   <fCall global="true" name="mp_type_int"/>
   <fCall global="true" name="mp_type_list"/>
   <fCall global="true" name="mp_type_map"/>
@@ -265,12 +244,8 @@
   <fCall global="true" name="mp_iternext"/>
   <fCall global="true" name="mp_binary_op"/>
   <fCall global="true" name="mp_raise_NotImplementedError"/>
-  <fCall global="true" name="mp_obj_get_float"/>
   <fCall global="true" name="mp_obj_get_int"/>
-  <fCall global="true" name="powf"/>
-  <fCall global="true" name="nearbyintf"/>
-  <fCall global="true" name="mp_obj_new_float"/>
-  <fCall global="true" name="mp_obj_new_int_from_float"/>
+  <fCall global="true" name="mp_obj_new_int"/>
   <fCall global="true" name="vstr_init_print"/>
   <fCall global="true" name="mp_obj_print_helper"/>
   <fCall global="true" name="mp_obj_new_str_from_vstr"/>
@@ -296,7 +271,4 @@
   <fCall global="true" name="mp_call_function_n_kw"/>
   <fCall global="true" name="mp_state_ctx"/>
   <fCall global="true" name="mp_plat_print"/>
-  <fCall global="true" name="__floatsisf"/>
-  <fCall global="true" name="__mulsf3"/>
-  <fCall global="true" name="__divsf3"/>
 </preCompilationAnalysis>

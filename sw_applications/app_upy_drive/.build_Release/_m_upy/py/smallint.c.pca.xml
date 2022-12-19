@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/smallint.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/smallint.c">
   <fCall global="true" name="mp_small_int_mul_overflow"/>
   <fCall global="true" name="mp_small_int_mul_overflow.nstackwords"/>
   <fCall global="true" name="mp_small_int_mul_overflow.maxcores"/>

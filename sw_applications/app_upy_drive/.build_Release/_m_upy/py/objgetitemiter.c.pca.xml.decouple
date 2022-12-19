@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objgetitemiter.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objgetitemiter.c">
   <fCall global="true" name="mp_obj_new_getitem_iter"/>
   <fCall global="true" name="mp_obj_new_getitem_iter.nstackwords"/>
   <fCall global="true" name="mp_obj_new_getitem_iter.maxcores"/>

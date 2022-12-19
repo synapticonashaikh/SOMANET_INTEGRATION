@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/parse.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/parse.c">
   <fCall global="true" name="mp_parse_node_get_int_maybe"/>
   <fCall global="true" name="mp_parse_node_get_int_maybe.nstackwords"/>
   <fCall global="true" name="mp_parse_node_get_int_maybe.maxcores"/>
@@ -65,26 +65,26 @@
   <fCall global="true" name="m_realloc.maxtimers"/>
   <fCall global="true" name="m_realloc.maxchanends"/>
   <fCall global="true" name="mp_parse_num_integer.nstackwords"/>
-  <fCall global="true" name="mp_parse_num_decimal.nstackwords"/>
+  <fCall global="true" name="mp_parse_num_float.nstackwords"/>
   <fCall global="true" name="qstr_from_strn.nstackwords"/>
   <fCall global="true" name="mp_obj_new_str_copy.nstackwords"/>
   <fCall global="true" name="qstr_find_strn.nstackwords"/>
   <fCall global="true" name="mp_obj_new_bytes.nstackwords"/>
   <fCall global="true" name="mp_obj_new_bytes.maxcores"/>
   <fCall global="true" name="mp_obj_new_str_copy.maxcores"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxcores"/>
+  <fCall global="true" name="mp_parse_num_float.maxcores"/>
   <fCall global="true" name="mp_parse_num_integer.maxcores"/>
   <fCall global="true" name="qstr_find_strn.maxcores"/>
   <fCall global="true" name="qstr_from_strn.maxcores"/>
   <fCall global="true" name="mp_obj_new_bytes.maxtimers"/>
   <fCall global="true" name="mp_obj_new_str_copy.maxtimers"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxtimers"/>
+  <fCall global="true" name="mp_parse_num_float.maxtimers"/>
   <fCall global="true" name="mp_parse_num_integer.maxtimers"/>
   <fCall global="true" name="qstr_find_strn.maxtimers"/>
   <fCall global="true" name="qstr_from_strn.maxtimers"/>
   <fCall global="true" name="mp_obj_new_bytes.maxchanends"/>
   <fCall global="true" name="mp_obj_new_str_copy.maxchanends"/>
-  <fCall global="true" name="mp_parse_num_decimal.maxchanends"/>
+  <fCall global="true" name="mp_parse_num_float.maxchanends"/>
   <fCall global="true" name="mp_parse_num_integer.maxchanends"/>
   <fCall global="true" name="qstr_find_strn.maxchanends"/>
   <fCall global="true" name="qstr_from_strn.maxchanends"/>
@@ -105,10 +105,10 @@
   <fCall global="true" name="m_realloc"/>
   <fCall global="true" name="qstr_from_strn"/>
   <fCall global="true" name="mp_parse_num_integer"/>
+  <fCall global="true" name="mp_parse_num_float"/>
   <fCall global="true" name="qstr_find_strn"/>
   <fCall global="true" name="mp_obj_new_str_copy"/>
   <fCall global="true" name="mp_obj_new_bytes"/>
-  <fCall global="true" name="mp_parse_num_decimal"/>
   <fCall global="true" name="mp_type_int"/>
   <fCall global="true" name="mp_type_IndentationError"/>
   <fCall global="true" name="mp_type_SyntaxError"/>

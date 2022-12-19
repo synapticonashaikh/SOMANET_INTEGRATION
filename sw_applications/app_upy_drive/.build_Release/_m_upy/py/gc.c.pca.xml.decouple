@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/gc.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/gc.c">
   <fCall global="true" name="gc_init"/>
   <fCall global="true" name="gc_init.nstackwords"/>
   <fCall global="true" name="memset.nstackwords"/>
@@ -103,7 +103,6 @@
   <fCall global="true" name="mp_type_dict"/>
   <fCall global="true" name="mp_type_str"/>
   <fCall global="true" name="mp_type_bytes"/>
-  <fCall global="true" name="mp_type_float"/>
   <fCall global="true" name="mp_type_fun_bc"/>
   <fCall global="true" name="mp_type_module"/>
   <fCall global="true" name="memset"/>

@@ -87,9 +87,7 @@
  *                           INCLUDE
  * ----------------------------------------------------------------------------
 */
-    #include <stdint.h>
-    #include <stdio.h>
-    #include <string.h>
+    #include "header.h"
 
     #include "builtin.h"
     #include "compile.h"
@@ -98,7 +96,6 @@
     #include "gc.h"
     #include "mperrno.h"
     #include "pyexec.h"
-  //#include "STdriver.h"
 
 /* ----------------------------------------------------------------------------
  *                          EXTERNAL FUNCTION

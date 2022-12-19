@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/virtpin.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/virtpin.c">
   <fCall global="true" name="mp_virtual_pin_read"/>
   <fCall global="true" name="mp_virtual_pin_write"/>
 </preCompilationAnalysis>

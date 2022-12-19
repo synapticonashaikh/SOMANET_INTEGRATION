@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objstr.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objstr.c">
   <fCall global="true" name="mp_str_print_quoted"/>
   <fCall global="true" name="mp_str_print_quoted.nstackwords"/>
   <fCall global="true" name="mp_print_str.nstackwords"/>
@@ -192,9 +192,6 @@
   <fCall global="true" name="vstr_null_terminated_str.nstackwords"/>
   <fCall global="true" name="mp_print_mp_int.nstackwords"/>
   <fCall global="true" name="__memcpy_4.nstackwords"/>
-  <fCall global="true" name="mp_print_float.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float.nstackwords"/>
-  <fCall global="true" name="__mulsf3.nstackwords"/>
   <fCall global="true" name="mp_print_strn.nstackwords"/>
   <fCall global="true" name="memchr.nstackwords"/>
   <fCall global="true" name="mp_raise_msg.nstackwords"/>
@@ -205,8 +202,6 @@
   <fCall global="true" name="vstr_add_byte.nstackwords"/>
   <fCall global="true" name="memchr.maxcores"/>
   <fCall global="true" name="mp_map_lookup.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float.maxcores"/>
-  <fCall global="true" name="mp_print_float.maxcores"/>
   <fCall global="true" name="mp_print_mp_int.maxcores"/>
   <fCall global="true" name="mp_print_strn.maxcores"/>
   <fCall global="true" name="mp_raise_msg.maxcores"/>
@@ -217,8 +212,6 @@
   <fCall global="true" name="vstr_null_terminated_str.maxcores"/>
   <fCall global="true" name="memchr.maxtimers"/>
   <fCall global="true" name="mp_map_lookup.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float.maxtimers"/>
-  <fCall global="true" name="mp_print_float.maxtimers"/>
   <fCall global="true" name="mp_print_mp_int.maxtimers"/>
   <fCall global="true" name="mp_print_strn.maxtimers"/>
   <fCall global="true" name="mp_raise_msg.maxtimers"/>
@@ -229,8 +222,6 @@
   <fCall global="true" name="vstr_null_terminated_str.maxtimers"/>
   <fCall global="true" name="memchr.maxchanends"/>
   <fCall global="true" name="mp_map_lookup.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float.maxchanends"/>
-  <fCall global="true" name="mp_print_float.maxchanends"/>
   <fCall global="true" name="mp_print_mp_int.maxchanends"/>
   <fCall global="true" name="mp_print_strn.maxchanends"/>
   <fCall global="true" name="mp_raise_msg.maxchanends"/>
@@ -395,8 +386,6 @@
   <fCall global="true" name="vstr_null_terminated_str"/>
   <fCall global="true" name="mp_print_mp_int"/>
   <fCall global="true" name="mp_print_strn"/>
-  <fCall global="true" name="mp_print_float"/>
-  <fCall global="true" name="mp_obj_get_float"/>
   <fCall global="true" name="mp_obj_list_make_new"/>
   <fCall global="true" name="mp_obj_get_array"/>
   <fCall global="true" name="qstr_len"/>
@@ -405,13 +394,11 @@
   <fCall global="true" name="mp_type_IndexError"/>
   <fCall global="true" name="mp_type_KeyError"/>
   <fCall global="true" name="mp_type_int"/>
-  <fCall global="true" name="mp_type_float"/>
   <fCall global="true" name="mp_type_list"/>
   <fCall global="true" name="mp_type_tuple"/>
   <fCall global="true" name="memcpy"/>
   <fCall global="true" name="memmove"/>
   <fCall global="true" name="memset"/>
-  <fCall global="true" name="__mulsf3"/>
   <fCall global="true" name="memchr"/>
   <fCall global="true" name="__memcpy_4"/>
 </preCompilationAnalysis>

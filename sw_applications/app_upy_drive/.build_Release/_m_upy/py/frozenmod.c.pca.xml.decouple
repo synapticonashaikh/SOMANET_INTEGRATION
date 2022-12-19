@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/frozenmod.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/frozenmod.c">
   <fCall global="true" name="mp_find_frozen_module"/>
   <fCall global="true" name="mp_find_frozen_module.nstackwords"/>
   <fCall global="true" name="strlen.nstackwords"/>

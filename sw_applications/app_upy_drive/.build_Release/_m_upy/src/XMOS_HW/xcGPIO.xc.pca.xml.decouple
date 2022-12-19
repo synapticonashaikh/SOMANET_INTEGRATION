@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/src/XMOS_HW/xcGPIO.xc">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/src/XMOS_HW/xcGPIO.xc">
 <fDef name="FnPortRead" global="true" noreturn="false" doNotSpecialize="false" numParams="1"/>
 <fDef name="FnPortWrite" global="true" noreturn="false" doNotSpecialize="false" numParams="2"/>
 <fDef name="FnToggle" global="true" noreturn="false" doNotSpecialize="false" numParams="0"/>

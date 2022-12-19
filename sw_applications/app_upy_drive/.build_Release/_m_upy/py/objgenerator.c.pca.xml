@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objgenerator.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objgenerator.c">
   <fCall global="true" name="mp_obj_malloc_helper.nstackwords"/>
   <fCall global="true" name="mp_setup_code_state.nstackwords"/>
   <fCall global="true" name="mp_obj_malloc_helper.maxcores"/>

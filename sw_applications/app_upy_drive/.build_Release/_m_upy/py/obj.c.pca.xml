@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/obj.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/obj.c">
   <fCall global="true" name="mp_obj_malloc_helper"/>
   <fCall global="true" name="mp_obj_malloc_helper.nstackwords"/>
   <fCall global="true" name="m_malloc.nstackwords"/>
@@ -112,52 +112,23 @@
   <fCall global="true" name="mp_obj_get_int_maybe.maxcores"/>
   <fCall global="true" name="mp_obj_get_int_maybe.maxtimers"/>
   <fCall global="true" name="mp_obj_get_int_maybe.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float_maybe"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.nstackwords"/>
-  <fCall global="true" name="mp_obj_float_get.nstackwords"/>
-  <fCall global="true" name="__floatsisf.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxcores"/>
-  <fCall global="true" name="mp_obj_float_get.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxtimers"/>
-  <fCall global="true" name="mp_obj_float_get.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxchanends"/>
-  <fCall global="true" name="mp_obj_float_get.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float"/>
-  <fCall global="true" name="mp_obj_get_float.nstackwords"/>
-  <fCall global="true" name="mp_raise_TypeError.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float.maxcores"/>
-  <fCall global="true" name="mp_raise_TypeError.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float.maxtimers"/>
-  <fCall global="true" name="mp_raise_TypeError.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float.maxchanends"/>
-  <fCall global="true" name="mp_raise_TypeError.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_complex_maybe"/>
-  <fCall global="true" name="mp_obj_get_complex_maybe.nstackwords"/>
-  <fCall global="true" name="mp_obj_complex_get.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_complex_maybe.maxcores"/>
-  <fCall global="true" name="mp_obj_complex_get.maxcores"/>
-  <fCall global="true" name="mp_obj_get_complex_maybe.maxtimers"/>
-  <fCall global="true" name="mp_obj_complex_get.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_complex_maybe.maxchanends"/>
-  <fCall global="true" name="mp_obj_complex_get.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_complex"/>
-  <fCall global="true" name="mp_obj_get_complex.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_complex.maxcores"/>
-  <fCall global="true" name="mp_obj_get_complex.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_complex.maxchanends"/>
   <fCall global="true" name="mp_obj_get_array"/>
   <fCall global="true" name="mp_obj_get_array.nstackwords"/>
   <fCall global="true" name="mp_obj_tuple_get.nstackwords"/>
   <fCall global="true" name="mp_obj_list_get.nstackwords"/>
+  <fCall global="true" name="mp_raise_TypeError.nstackwords"/>
   <fCall global="true" name="mp_obj_get_array.maxcores"/>
   <fCall global="true" name="mp_obj_list_get.maxcores"/>
   <fCall global="true" name="mp_obj_tuple_get.maxcores"/>
+  <fCall global="true" name="mp_raise_TypeError.maxcores"/>
   <fCall global="true" name="mp_obj_get_array.maxtimers"/>
   <fCall global="true" name="mp_obj_list_get.maxtimers"/>
   <fCall global="true" name="mp_obj_tuple_get.maxtimers"/>
+  <fCall global="true" name="mp_raise_TypeError.maxtimers"/>
   <fCall global="true" name="mp_obj_get_array.maxchanends"/>
   <fCall global="true" name="mp_obj_list_get.maxchanends"/>
   <fCall global="true" name="mp_obj_tuple_get.maxchanends"/>
+  <fCall global="true" name="mp_raise_TypeError.maxchanends"/>
   <fCall global="true" name="mp_obj_get_array_fixed_n"/>
   <fCall global="true" name="mp_obj_get_array_fixed_n.nstackwords"/>
   <fCall global="true" name="mp_raise_ValueError.nstackwords"/>
@@ -235,22 +206,17 @@
   <fCall global="true" name="mp_obj_int_get_checked"/>
   <fCall global="true" name="mp_unary_op"/>
   <fCall global="true" name="mp_obj_int_get_truncated"/>
-  <fCall global="true" name="mp_obj_float_get"/>
-  <fCall global="true" name="mp_raise_TypeError"/>
-  <fCall global="true" name="mp_obj_complex_get"/>
   <fCall global="true" name="mp_obj_tuple_get"/>
   <fCall global="true" name="mp_obj_list_get"/>
+  <fCall global="true" name="mp_raise_TypeError"/>
   <fCall global="true" name="mp_raise_ValueError"/>
   <fCall global="true" name="mp_raise_msg"/>
   <fCall global="true" name="mp_obj_new_int"/>
   <fCall global="true" name="mp_obj_new_int_from_uint"/>
   <fCall global="true" name="qstr_len"/>
   <fCall global="true" name="mp_plat_print"/>
-  <fCall global="true" name="mp_type_float"/>
-  <fCall global="true" name="mp_type_complex"/>
   <fCall global="true" name="mp_type_tuple"/>
   <fCall global="true" name="mp_type_list"/>
   <fCall global="true" name="mp_type_IndexError"/>
   <fCall global="true" name="mp_type_bytes"/>
-  <fCall global="true" name="__floatsisf"/>
 </preCompilationAnalysis>

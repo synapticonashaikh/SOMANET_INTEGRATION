@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/opmethods.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/opmethods.c">
   <fCall global="true" name="mp_op_getitem_obj"/>
   <fCall global="true" name="mp_type_fun_builtin_2"/>
   <fCall global="true" name="mp_op_setitem_obj"/>

@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/builtinimport.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/builtinimport.c">
   <fCall global="true" name="mp_obj_is_package"/>
   <fCall global="true" name="mp_obj_is_package.nstackwords"/>
   <fCall global="true" name="mp_load_method_maybe.nstackwords"/>

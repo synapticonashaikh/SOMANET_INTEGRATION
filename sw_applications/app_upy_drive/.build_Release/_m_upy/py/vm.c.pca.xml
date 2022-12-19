@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/vm.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/vm.c">
   <fCall global="true" name="mp_execute_bytecode"/>
   <fCall global="true" name="mp_execute_bytecode.nstackwords"/>
   <fCall global="true" name="nlr_push_tail.nstackwords"/>

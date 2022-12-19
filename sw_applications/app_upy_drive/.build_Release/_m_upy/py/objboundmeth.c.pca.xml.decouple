@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objboundmeth.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objboundmeth.c">
   <fCall global="true" name="mp_call_method_self_n_kw"/>
   <fCall global="true" name="mp_call_method_self_n_kw.maxcores"/>
   <fCall global="true" name="m_free.maxcores"/>

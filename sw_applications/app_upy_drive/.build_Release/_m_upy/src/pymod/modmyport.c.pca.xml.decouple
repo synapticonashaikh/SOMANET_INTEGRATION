@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/src/pymod/modmyport.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/src/pymod/modmyport.c">
   <fCall global="true" name="strcat.nstackwords"/>
   <fCall global="true" name="mp_obj_str_get_str.nstackwords"/>
   <fCall global="true" name="strlen.nstackwords"/>
@@ -15,19 +15,6 @@
   <fCall global="true" name="mp_obj_str_get_str.maxchanends"/>
   <fCall global="true" name="strcat.maxchanends"/>
   <fCall global="true" name="strlen.maxchanends"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.nstackwords"/>
-  <fCall global="true" name="__mulsf3.nstackwords"/>
-  <fCall global="true" name="mp_obj_new_float.nstackwords"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxcores"/>
-  <fCall global="true" name="mp_obj_new_float.maxcores"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxtimers"/>
-  <fCall global="true" name="mp_obj_new_float.maxtimers"/>
-  <fCall global="true" name="mp_obj_get_float_maybe.maxchanends"/>
-  <fCall global="true" name="mp_obj_new_float.maxchanends"/>
-  <fCall global="true" name="mp_obj_float_get.nstackwords"/>
-  <fCall global="true" name="mp_obj_float_get.maxcores"/>
-  <fCall global="true" name="mp_obj_float_get.maxtimers"/>
-  <fCall global="true" name="mp_obj_float_get.maxchanends"/>
   <fCall global="true" name="memset.nstackwords"/>
   <fCall global="true" name="siprintf.nstackwords"/>
   <fCall global="true" name="mp_printf.nstackwords"/>
@@ -48,12 +35,8 @@
   <fCall global="true" name="mp_obj_str_get_str"/>
   <fCall global="true" name="mp_obj_new_str"/>
   <fCall global="true" name="strlen"/>
-  <fCall global="true" name="mp_obj_get_float_maybe"/>
-  <fCall global="true" name="mp_obj_new_float"/>
-  <fCall global="true" name="mp_obj_float_get"/>
   <fCall global="true" name="mp_printf"/>
   <fCall global="true" name="mp_plat_print"/>
-  <fCall global="true" name="__mulsf3"/>
   <fCall global="true" name="memset"/>
   <fCall global="true" name="siprintf"/>
 </preCompilationAnalysis>

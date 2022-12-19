@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/stdout_helpers.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/stdout_helpers.c">
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked"/>
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.nstackwords"/>
   <fCall global="true" name="mp_hal_stdout_tx_strn.nstackwords"/>

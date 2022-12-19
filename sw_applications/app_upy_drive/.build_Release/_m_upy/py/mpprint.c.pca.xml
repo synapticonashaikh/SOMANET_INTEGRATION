@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/mpprint.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/mpprint.c">
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.nstackwords"/>
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.maxcores"/>
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked.maxtimers"/>
@@ -34,15 +34,6 @@
   <fCall global="true" name="mp_obj_get_int.maxchanends"/>
   <fCall global="true" name="mp_obj_int_formatted.maxchanends"/>
   <fCall global="true" name="mp_obj_int_sign.maxchanends"/>
-  <fCall global="true" name="mp_print_float"/>
-  <fCall global="true" name="mp_print_float.nstackwords"/>
-  <fCall global="true" name="mp_format_float.nstackwords"/>
-  <fCall global="true" name="mp_print_float.maxcores"/>
-  <fCall global="true" name="mp_format_float.maxcores"/>
-  <fCall global="true" name="mp_print_float.maxtimers"/>
-  <fCall global="true" name="mp_format_float.maxtimers"/>
-  <fCall global="true" name="mp_print_float.maxchanends"/>
-  <fCall global="true" name="mp_format_float.maxchanends"/>
   <fCall global="true" name="mp_printf"/>
   <fCall global="true" name="mp_printf.nstackwords"/>
   <fCall global="true" name="mp_vprintf.nstackwords"/>
@@ -60,9 +51,7 @@
   <fCall global="true" name="mp_obj_int_sign"/>
   <fCall global="true" name="mp_obj_int_formatted"/>
   <fCall global="true" name="m_free"/>
-  <fCall global="true" name="mp_format_float"/>
   <fCall global="true" name="qstr_data"/>
   <fCall global="true" name="mp_hal_stdout_tx_strn_cooked"/>
   <fCall global="true" name="mp_type_int"/>
-  <fCall global="true" name="__truncdfsf2"/>
 </preCompilationAnalysis>

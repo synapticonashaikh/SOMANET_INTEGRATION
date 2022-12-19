@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/bc.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/bc.c">
   <fCall global="true" name="mp_encode_uint"/>
   <fCall global="true" name="mp_decode_uint"/>
   <fCall global="true" name="mp_decode_uint.nstackwords"/>

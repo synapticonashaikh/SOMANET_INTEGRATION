@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/src/pymod/modgpio.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/src/pymod/modgpio.c">
   <fCall global="true" name="FnToggle.nstackwords"/>
   <fCall global="true" name="FnToggle.maxcores"/>
   <fCall global="true" name="FnToggle.maxtimers"/>

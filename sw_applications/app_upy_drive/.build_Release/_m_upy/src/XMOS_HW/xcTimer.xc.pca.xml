@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/src/XMOS_HW/xcTimer.xc">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/src/XMOS_HW/xcTimer.xc">
 <fDef name="FndelaySec" global="true" noreturn="false" doNotSpecialize="false" numParams="1"/>
 <fDef name="FndelaymSec" global="true" noreturn="false" doNotSpecialize="false" numParams="1"/>
 <fDef name="FndelayuSec" global="true" noreturn="false" doNotSpecialize="false" numParams="1"/>

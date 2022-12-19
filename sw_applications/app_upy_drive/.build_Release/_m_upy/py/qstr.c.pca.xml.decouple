@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/qstr.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/qstr.c">
   <fCall global="true" name="qstr_compute_hash"/>
   <fCall global="true" name="qstr_compute_hash.nstackwords"/>
   <fCall global="true" name="qstr_compute_hash.maxcores"/>

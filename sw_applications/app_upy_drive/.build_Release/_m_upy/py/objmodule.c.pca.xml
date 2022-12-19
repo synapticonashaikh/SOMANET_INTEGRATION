@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objmodule.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objmodule.c">
   <fCall global="true" name="mp_map_lookup.nstackwords"/>
   <fCall global="true" name="mp_printf.nstackwords"/>
   <fCall global="true" name="mp_obj_str_get_str.nstackwords"/>

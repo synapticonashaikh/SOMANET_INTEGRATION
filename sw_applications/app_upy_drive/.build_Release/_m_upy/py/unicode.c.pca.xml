@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/unicode.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/unicode.c">
   <fCall global="true" name="unichar_isspace"/>
   <fCall global="true" name="unichar_isspace.nstackwords"/>
   <fCall global="true" name="unichar_isspace.maxcores"/>

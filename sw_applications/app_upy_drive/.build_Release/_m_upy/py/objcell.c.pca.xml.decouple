@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objcell.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objcell.c">
   <fCall global="true" name="mp_obj_new_cell"/>
   <fCall global="true" name="mp_obj_new_cell.nstackwords"/>
   <fCall global="true" name="mp_obj_malloc_helper.nstackwords"/>

@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objtype.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objtype.c">
   <fCall global="true" name="mp_obj_instance_is_callable"/>
   <fCall global="true" name="mp_obj_instance_is_callable.nstackwords"/>
   <fCall global="true" name="mp_obj_instance_is_callable.maxcores"/>

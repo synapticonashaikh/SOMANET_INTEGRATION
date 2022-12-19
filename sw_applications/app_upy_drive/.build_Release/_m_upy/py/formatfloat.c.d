@@ -2,5 +2,4 @@
   ../../sc_base/module_upy/py/formatfloat.c \
   ../../sc_base/module_upy/py/mpconfig.h \
   ../../sc_base/module_upy/py/mpconfigport.h \
-  ../../sc_base/module_upy/py/misc.h \
-  ../../sc_base/module_upy/py/formatfloat.h
+  ../../sc_base/module_upy/py/misc.h

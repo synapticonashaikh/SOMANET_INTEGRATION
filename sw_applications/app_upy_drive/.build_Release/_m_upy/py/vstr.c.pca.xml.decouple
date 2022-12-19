@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/vstr.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/vstr.c">
   <fCall global="true" name="vstr_init"/>
   <fCall global="true" name="vstr_init.nstackwords"/>
   <fCall global="true" name="m_malloc.nstackwords"/>

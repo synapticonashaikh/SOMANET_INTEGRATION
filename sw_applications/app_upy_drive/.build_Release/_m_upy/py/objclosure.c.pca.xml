@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objclosure.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objclosure.c">
   <fCall global="true" name="m_malloc.nstackwords"/>
   <fCall global="true" name="__memcpy_4.nstackwords"/>
   <fCall global="true" name="mp_call_function_n_kw.nstackwords"/>

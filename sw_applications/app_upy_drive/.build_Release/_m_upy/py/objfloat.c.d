@@ -19,5 +19,4 @@
   ../../sc_base/module_upy/py/objexcept.h \
   ../../sc_base/module_upy/py/objtuple.h \
   ../../sc_base/module_upy/src/pystart/build/genhdr/root_pointers.h \
-  ../../sc_base/module_upy/py/pystack.h \
-  ../../sc_base/module_upy/py/formatfloat.h
+  ../../sc_base/module_upy/py/pystack.h

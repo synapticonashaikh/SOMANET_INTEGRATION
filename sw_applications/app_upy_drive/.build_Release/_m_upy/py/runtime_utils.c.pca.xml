@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/runtime_utils.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/runtime_utils.c">
   <fCall global="true" name="mp_call_function_1_protected"/>
   <fCall global="true" name="mp_call_function_1_protected.nstackwords"/>
   <fCall global="true" name="nlr_push_tail.nstackwords"/>

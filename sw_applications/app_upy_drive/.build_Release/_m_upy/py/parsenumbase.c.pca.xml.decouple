@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/parsenumbase.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/parsenumbase.c">
   <fCall global="true" name="mp_parse_num_base"/>
   <fCall global="true" name="mp_parse_num_base.nstackwords"/>
   <fCall global="true" name="mp_parse_num_base.maxcores"/>

@@ -1,4 +1,4 @@
-<preCompilationAnalysis file="/home/synapticon/Desktop/somanet_software/sc_base/module_upy/py/objmap.c">
+<preCompilationAnalysis file="/home/synapticon/Desktop/SOMANET_INTEGRATION/sc_base/module_upy/py/objmap.c">
   <fCall global="true" name="mp_arg_check_num_sig.nstackwords"/>
   <fCall global="true" name="mp_obj_malloc_helper.nstackwords"/>
   <fCall global="true" name="mp_getiter.nstackwords"/>
